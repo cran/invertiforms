@@ -1,6 +1,7 @@
-cd5d1cdedac35561cf9c3dae3017f5ff *DESCRIPTION
+c735edb64955b0ebc848cbfd257f0477 *DESCRIPTION
 2875a0f28a3baaf38318c23bfe0b2300 *LICENSE
 9fe1823c2b28f26a1fbd89ce6a12f672 *NAMESPACE
+c3c5ee9e6ada5abf3694b95f327c4e67 *NEWS.md
 527c15b3fec8f9d8d2a85ce6009c15a0 *R/DoubleCenter.R
 43b28fc641c8772c277c9a5b2b7df4dd *R/NormalizedLaplacian.R
 02eadf18bfb25973631d1b084d8c2c0e *R/PerturbedLaplacian.R
@@ -8,7 +9,7 @@ cd5d1cdedac35561cf9c3dae3017f5ff *DESCRIPTION
 3473721526a834d4d3d818aa0d37715b *R/invertiforms-package.R
 5a16ac5bfa6018203303b90965a7a411 *R/s4-generics.R
 bc30a85f1baa633403a86302943aa697 *R/utils.R
-5ca496cabcd2b2923a99e2297f892fbd *README.md
+64e270917a7412e587c5ee2868d13afd *README.md
 ed28504d3a62d272ddd27b1d9986049e *man/DoubleCenter-class.Rd
 70b557909161a9f1b73bd94fa5043717 *man/DoubleCenter.Rd
 bc609bedd8434b78737d6b2f1fa5392d *man/Invertiform-class.Rd
@@ -18,14 +19,14 @@ e6c8b98dca9d4b4030c41c7c1f75c74a *man/NormalizedLaplacian.Rd
 b03c06b7ad451f060a09e01523c09de1 *man/PerturbedLaplacian.Rd
 09b7631d576dd64d5b70fb0563cb6054 *man/RegularizedLaplacian-class.Rd
 829e3bef4cb822f15b930df6a1231f64 *man/RegularizedLaplacian.Rd
-00266b97ede4361f01eb8184c019dcf0 *man/figures/README-unnamed-chunk-2-1.png
+069fc3fd83e64786c0d7264729a92564 *man/figures/README-unnamed-chunk-2-1.png
 a631a1ce7a17f2f5770d3254ea8445a3 *man/figures/README-unnamed-chunk-3-1.png
-8d9e6b90cdc020d5164c43512a6ebf01 *man/figures/README-unnamed-chunk-5-1.png
+92bcd3484f82013b14190e37c21ee923 *man/figures/README-unnamed-chunk-5-1.png
 496a5d9148c115437ed720812d57786b *man/inverse_transform.Rd
 8e9a33fcc421add5c6e1cbc6647d6909 *man/invertiforms-package.Rd
 ff36e2535f5761beada8b9e135345d87 *man/transform.Rd
 5070a9547066921d6be7061aed9d9259 *tests/testthat.R
 6e874d2e5dfd02e0fc89560ecbcb157c *tests/testthat/test-DoubleCenter.R
-c6c69e781cc39b67c6482a072ac91041 *tests/testthat/test-NormalizedLaplacian.R
-3c2583a765b794273373da14e00406d2 *tests/testthat/test-PerturbedLaplacian.R
-5e6990e574943d635cb71e7a93533e56 *tests/testthat/test-RegularizedLaplacian.R
+4573e45e09c75952e10637a34be8adc9 *tests/testthat/test-NormalizedLaplacian.R
+02edc4d279f8667a7d56d8c2f479d97a *tests/testthat/test-PerturbedLaplacian.R
+f4d51a9102777b10fb869dc1016ea15c *tests/testthat/test-RegularizedLaplacian.R
