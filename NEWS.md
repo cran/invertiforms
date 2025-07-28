@@ -1,3 +1,7 @@
+# invertiforms 0.1.2
+
+* Improve cross-linking to `Matrix` documentation
+
 # invertiforms 0.1.1
 
 * Fix compatibility with `Matrix` 1.5.2+ (see #8)
